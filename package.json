@@ -1,0 +1,19 @@
+{
+  "name": "react_native_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinpengqiong/react_native_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinpengqiong/react_native_demo/issues"
+  },
+  "homepage": "https://github.com/jinpengqiong/react_native_demo#readme"
+}
